@@ -1,4 +1,4 @@
-# 🔥 Firebase + Vue 3 Demo
+#  Firebase + Vue 3 Demo
 
 Demonstracijska aplikacija: Vue 3 + Vue Router + Pinia + Firebase Auth + Firestore
 
